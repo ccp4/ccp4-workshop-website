@@ -1,1 +1,1 @@
-# ccp4-summer-school
+CCP4/DLS workshop website

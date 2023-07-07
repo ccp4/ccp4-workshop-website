@@ -58,7 +58,7 @@
     </p>
     <p>We look forward to welcoming you in Harwell!</p>
     <p>
-      The organisers,<br>.
+      The organisers<br>
     </p>
     <!-- <p style="color:red">
       <b>Registration is now closed. Thank you for your interest.</b>

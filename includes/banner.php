@@ -1,8 +1,7 @@
 <header>
     <div class="spaced">
         <a href="https://www.ccp4.ac.uk"><img alt="CCP4" src="https://www.ccp4.ac.uk/download/logos/ccp4-big-logo2-transparent.png"></a>
-        <a href="https://crystallography.org.uk"><img alt="BCA" src="https://www.crystallography.org.uk/assets/images/logo/bcalogo-1000x1128.gif"></a>
-        <a href="https://york.ac.uk"><img alt="University of York" src="https://www.york.ac.uk/static/stable/img/logo.svg" /></a>
+        <a href="https://www.diamond.ac.uk"><img src="images/dls_weblogo.jpg" alt="DLS"></a>
     </div>
     <nav>
         <a href="index.php">Home</a>
@@ -16,8 +15,5 @@
         <a href="application.php">&gt;&gt; Apply now! &lt;&lt;</a>
     </nav>
 </header>
-<h1>
-    CCP4-BCA Summer School 2023
-    (York, UK) 
-    <i>19-25 August 2023. Deadline: 5th July 2023</i>
-</h1>
+
+<h1>DLS-CCP4 Data Collection and Structure Solution Workshop <i>On site: November 27th - December 5th 2023</i></h1>

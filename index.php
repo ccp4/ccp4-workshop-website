@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>CCP4-BCA Summer School 2023 (University of York, UK)</title>
+  <title>DLS-CCP4 Workshop</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="styles/ccp4.css" />
 </head>
@@ -11,18 +11,14 @@
   <?PHP include("includes/banner.php"); ?>
   <main>
     <div class="campus"></div>
-    <h2>The CCP4-BCA Summer School returns to the North!</h2>
+    <h2>Workshop Announcement</h2>
+
     <p>
-      It is a great pleasure to announce the return of the CCP4-BCA Summer School on
-      macromolecular crystallography and associated techniques. Running for the first
-      time since the COVID-19 pandemic, the school aims to bring together early-career
-      scientists from the UK, Europe and beyond and train them in the latest advances
-      in structural biology, with a primary focus on macromolecular crystallography.
-      The school, which was formerly run at the University of St. Andrews for many years,
-      has trained hundreds of crystallographers while also providing them with unforgettable
-      collective memories. The York team aims to capture and continue the essence and tradition
-      of the school, blending it with the best the City of York has to offer.
+      <b>We are very pleased to announce
+        the tenth joint Diamond-CCP4 MX workshop for graduate students,
+        postdocs and early career scientists.</b>
     </p>
+
     <p>
       All aspects of structure solution will be covered during the
       workshop, from data collection through to phasing, refinement,
@@ -34,18 +30,19 @@
         sometimes even software authors themselves!
       </li>
       <li>
-        An exciting social programme will showcase
-        some of the best the historical City of York can offer - and in summer.
+        One day of data collection time will be provided at Diamond's excellent MX beamlines
       </li>
       <li>
         You will be able to work alongside world-leading scientists
         and methods developers on your own projects.
       </li>
+
     </ul>
     <p>
-      The school will be based at <b>The University of York's Campus West</b>,
-      with lectures in the main Biology building, workshops
-      in a PC room in James College and accommodation in Vanbrugh College.
+      The workshop will begin with two days of lectures delivered remotely
+      by Zoom. Following that, further lectures, tutorials, data
+      collection and subsequent analysis will be done in person at Diamond Light
+      Source, on the Harwell Oxford campus in Oxfordshire, UK.
     </p>
     <p>
       <a title="Location information" href="location.php">
@@ -59,10 +56,9 @@
       and be prepared to submit the <b>e-mail address of a supervisor</b>
       who will write a <b>letter of recommendation</b> in support of their application.
     </p>
-    <p>We look forward to welcoming you in York this summer!</p>
+    <p>We look forward to welcoming you in Harwell!</p>
     <p>
-      The organisers,<br>
-      Johan Turkenburg, Jon Agirre and Paul Bond.
+      The organisers,<br>.
     </p>
     <!-- <p style="color:red">
       <b>Registration is now closed. Thank you for your interest.</b>

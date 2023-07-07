@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>CCP4-BCA Summer School 2023 (University of York, UK)</title>
+  <title>DLS-CCP4 Workshop</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="styles/ccp4.css" />
   <style>
@@ -25,24 +25,10 @@
     </p>
     <div class="spaced">
       <div class="organiser">
-        <img width="200px" src="images/organisers/johan_turkenburg.jpg">
+        <img width="200px" src="images/organisers/david_waterman.jpg">
         <p>
-          <b>Johan Turkenburg</b><br>
-          <a href="mailto:johan.turkenburg@york.ac.uk">johan.turkenburg@york.ac.uk</a>
-        </p>
-      </div>
-      <div class="organiser">
-        <img width="200px" src="images/organisers/jon_agirre.jpg">
-        <p>
-          <b>Jon Agirre</b><br>
-          <a href="mailto:jon.agirre@york.ac.uk">jon.agirre@york.ac.uk</a>
-        </p>
-      </div>
-      <div class="organiser">
-        <img width="200px" src="images/organisers/paul_bond.jpg">
-        <p>
-          <b>Paul Bond</b><br>
-          <a href="mailto:paul.bond@york.ac.uk">paul.bond@york.ac.uk</a>
+          <b>David Waterman</b><br>
+          <a href="mailto:david.waterman@stfc.ac.uk">david.waterman@stfc.ac.uk</a>
         </p>
       </div>
     </div>

@@ -1,8 +1,10 @@
 <footer>
-   <p>Additional support:</p>
+   <p>Supported by:</p>
    <div class="spaced">
-      <a href="https://bbsrc.ac.uk"><img alt="BBSRC" src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9iZlwvMTc5OTMxXC9wcm9qZWN0c1wvMjY4ODgwXC9hc3NldHNcLzkyXC80Nzk4OTAzXC8zYmU3MzRkYWM4YjIzODliNmQwMTE4ZTE0YmNkZjZlZS0xNjAyOTI0NzM3LnBuZyJ9:frontify:GXY4HKO84lg_3Y3XqJ7ZCRNsRSmIep7-6ClIZIX4arU?width=488"></a>
-      <a href="https://rigaku.com"><img alt="Rigaku" src="https://www.rigaku.com/sites/default/files/Rigaku%20rgb_logo_2018.12.10_0.png"></a>
-      <a href="https://sptlabtech.com"><img alt="SPT Labtech" src="https://www.sptlabtech.com/hubfs/raw_assets/public/SPT-Labtech-2021/SPT-Labtech-Theme-2021/images/logo.svg"></a>
+      <a href="http://www.stfc.ac.uk"><img alt="STFC" src="images/ukri-stfc.png"></a>
+      <a href="http://www.diamond.ac.uk"><img alt="Diamond Light Source" src="images/dls_weblogo.jpg" align="right">
+      <a href="http://journals.iucr.org/d"><img alt="IUCr" src="images/IUCr.png" align="right">
+      <a href="https://www.dectris.com"><img alt="DECTRIS" src="images/dectris.png" align="right">
+      <a href="https://www.evotec.com"><img alt="Evotec" src="images/Evotec.png" align="right">
    </div>
 </footer>

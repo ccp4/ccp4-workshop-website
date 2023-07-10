@@ -24,6 +24,31 @@
       including registration, programme, or accommodation.
     </p>
     <div class="spaced">
+
+      <div class="organiser">
+        <img width="200px" src="images/organisers/pierre_aller.jpg">
+        <p>
+          <b>Pierre Aller</b><br>
+          <a href="mailto:pierre.aller@diamond.ac.uk">pierre.aller@diamond.ac.uk</a>
+        </p>
+       </div>
+
+      <div class="organiser">
+        <img width="200px" src="images/organisers/felicity_bertram.jpg">
+        <p>
+          <b>Felicity Bertram</b><br>
+          <a href="mailto:felicity.bertram@diamond.ac.uk">felicity.bertram@diamond.ac.uk</a>
+        </p>
+      </div>
+
+      <div class="organiser">
+        <img width="200px" src="images/organisers/marco_mazzorana.jpg">
+        <p>
+          <b>Marco Mazzorana</b><br>
+          <a href="mailto:marco.mazzorana@diamond.ac.uk">marco.mazzorana@diamond.ac.uk</a>
+        </p>
+      </div>
+
       <div class="organiser">
         <img width="200px" src="images/organisers/david_waterman.jpg">
         <p>
@@ -31,13 +56,7 @@
           <a href="mailto:david.waterman@stfc.ac.uk">david.waterman@stfc.ac.uk</a>
         </p>
       </div>
-      <div class="organiser">
-        <img width="200px" src="images/organisers/pierre_aller.jpg">
-        <p>
-          <b>Pierre Aller</b><br>
-          <a href="mailto:pierre.aller@diamond.ac.uk">pierre.aller@diamond.ac.uk</a>
-        </p>
-      </div>
+
     </div>
   </main>
   <?PHP include("includes/sponsors.php"); ?>

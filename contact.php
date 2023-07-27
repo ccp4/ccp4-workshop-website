@@ -57,6 +57,14 @@
         </p>
       </div>
 
+      <div class="organiser">
+        <img width="200px" src="images/organisers/graeme_winter.jpg">
+        <p>
+          <b>Graeme Winter</b><br>
+          <a href="mailto:graeme.winter@diamond.ac.uk">graeme.winter@diamond.ac.uk</a>
+        </p>
+      </div>
+
     </div>
   </main>
   <?PHP include("includes/sponsors.php"); ?>

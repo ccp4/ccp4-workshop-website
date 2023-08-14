@@ -32,7 +32,7 @@
 who wish to travel at different times during the day the bus stop is directly
 outside the hotel.</p-->
     <p></p> The Oxford Bus Company
-    <a href="https://www.oxfordbus.co.uk/services/THTR/X32">X32</a>
+    <a href="https://www.oxfordbus.co.uk/services/THTR/X35">X35</a>
     route serves the Harwell campus and picks up in Wantage immediately
     outside The Bear. Suitable bus times are included on the
     <a href="programme.php">programme</a>. Coach transport will be provided

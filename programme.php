@@ -10,8 +10,15 @@
 <body>
   <?PHP include("includes/banner.php"); ?>
   <main>
-    <p><strong style="color: red;">Watch this space!</strong></p>
+    <!--p><strong style="color: red;">Watch this space!</strong></p-->
     <!--img width="100%" src="images/programme.png" /-->
+    <center>
+        <iframe src="DLS-CCP4-2023.pdf"
+                width="800"
+                height="500">
+        </iframe>
+    </center>
+
   </main>
   <?PHP include("includes/sponsors.php"); ?>
 </body>

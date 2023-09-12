@@ -13,8 +13,12 @@
     <!--p><strong style="color: red;">Watch this space!</strong></p-->
     <!--img width="100%" src="images/programme.png" /-->
     <center>
-        <iframe src="https://docs.google.com/viewer?url=https://www.ccp4.ac.uk/schools/_DLS-2023/DLS-CCP4-2023.pdf&embedded=true"
-        style="width:100%; height:650px;" frameborder="0"></iframe>
+        <iframe
+            src="./web/viewer.html?file=DLS-CCP4-2023.pdf"
+            width=800px
+            height=600px
+            style="border: none;"
+        />
     </center>
 
   </main>

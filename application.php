@@ -12,7 +12,11 @@
   <main>
     <div class="campus"></div>
     <h2>Information for applicants</h2>
-    <p style="color:red"><i><b>Coming soon!</b></i></p>
+
+    <p></p><b>Click <a href="https://www.diamond.ac.uk/Home/Events/2022/Diamond-CCP4-Data-Collection-and-Structure-Solution-Workshop-2023.html">here</a>
+ to apply online at the Diamond Events page. </b></p>
+
+    <!--p style="color:red"><i><b>Coming soon!</b></i></p-->
 
     <p><b>Please note, students must be prepared to submit the e-mail address of a supervisor who will
         write a letter of recommendation to support their application.</b></p>

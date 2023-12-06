@@ -32,7 +32,6 @@
       echo "</table>\n";
     }
     ?>
-    <p><strong style="color: red;">Watch this space!</strong></p>
   </main>
   <?PHP include("includes/sponsors.php"); ?>
 </body>

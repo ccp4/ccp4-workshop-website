@@ -8,14 +8,14 @@
 </head>
 
 <body>
-  <?PHP include("includes/banner.php"); ?>
+  <?php include "includes/banner.php"; ?>
   <main>
     <div class="campus"></div>
     <h2>Workshop Announcement</h2>
 
     <p>
       <b>We are very pleased to announce
-        the tenth joint Diamond-CCP4 MX workshop for graduate students,
+        the eleventh joint Diamond-CCP4 MX workshop for graduate students,
         postdocs and early career scientists.</b>
     </p>
 
@@ -64,7 +64,7 @@
       <b>Registration is now closed. Thank you for your interest.</b>
     </p> -->
   </main>
-  <?PHP include("includes/sponsors.php"); ?>
+  <?php include "includes/sponsors.php"; ?>
 </body>
 
 </html>

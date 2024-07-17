@@ -8,12 +8,12 @@
 </head>
 
 <body>
-  <?PHP include("includes/banner.php"); ?>
+  <?php include "includes/banner.php"; ?>
   <main>
     <div class="campus"></div>
     <h2>Information for applicants</h2>
 
-    <p></p><b>Click <a href="https://www.diamond.ac.uk/Home/Events/2023/Diamond-CCP4-Data-Collection-and-Structure-Solution-Workshop-2023.html">here</a>
+    <p></p><b>Click <a href="https://www.diamond.ac.uk/Home/Events/2024/Diamond-CCP4-Data-Collection-and-Structure-Solution-Workshop-2024.html">here</a>
  to apply online at the Diamond Events page. </b></p>
 
     <!--p style="color:red"><i><b>Coming soon!</b></i></p-->
@@ -22,7 +22,7 @@
         write a letter of recommendation to support their application.</b></p>
 
   </main>
-  <?PHP include("includes/sponsors.php"); ?>
+  <?php include "includes/sponsors.php"; ?>
 </body>
 
 </html>

@@ -13,7 +13,7 @@
     <div class="campus"></div>
     <h2>Information for applicants</h2>
 
-    <p></p><b>Click <a href="https://www.diamond.ac.uk/Home/Events/2024/Diamond-CCP4-Data-Collection-and-Structure-Solution-Workshop-2024.html">here</a>
+    <p></p><b>Click <a href="https://www.diamond.ac.uk/Home/Events/2024/DLS-CCP4.html">here</a>
  to apply online at the Diamond Events page. </b></p>
 
     <!--p style="color:red"><i><b>Coming soon!</b></i></p-->

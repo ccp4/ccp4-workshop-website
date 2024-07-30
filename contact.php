@@ -42,6 +42,14 @@
       </div>
 
       <div class="organiser">
+        <img width="200px" src="images/organisers/maria_fando.jpg">
+        <p>
+          <b>Maria Fando</b><br>
+          <a href="mailto:maria.fando@stfc.ac.uk">maria.fando@stfc.ac.uk</a>
+        </p>
+      </div>
+
+      <div class="organiser">
         <img width="200px" src="images/organisers/marco_mazzorana.jpg">
         <p>
           <b>Marco Mazzorana</b><br>

@@ -8,7 +8,6 @@
         <a href="programme.php">Programme</a>
         <a href="accommodation.php">Accommodation</a>
         <a href="location.php">Location</a>
-        <a href="social.php">Social activities</a>
         <a href="material.php">Course material</a>
         <a href="edi.php">Equity and inclusion</a>
         <a href="contact.php">Contact us</a>

@@ -1,7 +1,7 @@
 <header>
     <div class="spaced">
         <a href="https://www.ccp4.ac.uk"><img alt="CCP4" src="https://www.ccp4.ac.uk/download/logos/ccp4-big-logo2-transparent.png"></a>
-        <a href="https://www.diamond.ac.uk"><img src="images/dls_weblogo.jpg" alt="DLS"></a>
+        <a href="https://www.diamond.ac.uk"><img src="images/DLS.png" alt="DLS"></a>
     </div>
     <nav>
         <a href="index.php">Home</a>

@@ -34,14 +34,6 @@
        </div>
 
       <div class="organiser">
-        <img width="200px" src="images/organisers/felicity_bertram.jpg">
-        <p>
-          <b>Felicity Bertram</b><br>
-          <a href="mailto:felicity.bertram@diamond.ac.uk">felicity.bertram@diamond.ac.uk</a>
-        </p>
-      </div>
-
-      <div class="organiser">
         <img width="200px" src="images/organisers/maria_fando.jpg">
         <p>
           <b>Maria Fando</b><br>

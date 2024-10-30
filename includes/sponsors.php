@@ -6,5 +6,6 @@
       <a href="https://www.dectris.com"><img alt="DECTRIS" src="images/dectris.png" align="right">
       <!--a href="https://www.mitegen.com/"><img src="images/mitegen_logo.jpg" align="right" height=50-->
       <a href="http://journals.iucr.org/d"><img alt="IUCr" src="images/IUCr.png" align="right">
+      <a href="https://rigaku.com/"><img alt="Rigaku" src="images/rigaku.png" align="right">
    </div>
 </footer>

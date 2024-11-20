@@ -7,5 +7,6 @@
       <!--a href="https://www.mitegen.com/"><img src="images/mitegen_logo.jpg" align="right" height=50-->
       <a href="http://journals.iucr.org/d"><img alt="IUCr" src="images/IUCr.png" align="right">
       <a href="https://rigaku.com/"><img alt="Rigaku" src="images/rigaku.png" align="right">
+      <a href="https://www.fidabio.com/"><img alt="Fidabio" src="images/fida-bio.png" align="right">
    </div>
 </footer>

@@ -12,7 +12,7 @@
   <main>
     <h2 style="clear:both">Lecture and workshop slides</h2>
     <?PHP
-    selectFiles("2023");
+    selectFiles("2024");
 
     /////////////////////////////////////////////////////
     // Function to display all files as table of links //
